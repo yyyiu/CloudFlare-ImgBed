@@ -44,4 +44,4 @@ bucket_name = "yyfox-db-image-r2"
 
 [[kv_namespaces]]
 binding = "img_url"
-id = ""
+id = "bacc500dc8df42af89311c301aea9efa"
